@@ -7,7 +7,7 @@
 #
 Name     : pypi-ordered_set
 Version  : 4.1.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/4c/ca/bfac8bc689799bcca4157e0e0ced07e70ce125193fc2e166d2e685b7e2fe/ordered-set-4.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/4c/ca/bfac8bc689799bcca4157e0e0ced07e70ce125193fc2e166d2e685b7e2fe/ordered-set-4.1.0.tar.gz
 Summary  : An OrderedSet is a custom MutableSet that remembers its order, so that every
